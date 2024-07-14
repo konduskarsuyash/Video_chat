@@ -1,0 +1,19 @@
+env/
+db.sqlite3
+.env
+base/__pycache__
+static/assests/AgoraRTC_N-4.21.0.js
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
